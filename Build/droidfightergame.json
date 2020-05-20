@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.0.2-preview",
+"dataUrl": "droidfightergame.data.unityweb",
+"wasmCodeUrl": "droidfightergame.wasm.code.unityweb",
+"wasmFrameworkUrl": "droidfightergame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
