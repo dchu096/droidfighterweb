@@ -20,6 +20,8 @@ v:2.1.1
 
 fixes bugs
 
+added holes for more challanging gameplay
+
 upcoming:
 
 boss rounds??
