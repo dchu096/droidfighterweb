@@ -6,28 +6,13 @@ welcome back to user096's github!
 
 changelog for fpv2:
 
-v:2.1
+v 2.2.2
+fixed mesh issues and wall crossing issues. Lv3 already exists and still building on it.
 
-level 1 is even harder!
-
-fixes grounds glitch falling off for no reason
-
-blocking exits for both misleading way out of building and harder gameplay
-
-new weapons is now in lv1
-
-v:2.1.1
-
-fixes bugs
-
-added holes for more challanging gameplay
 
 upcoming:
 
-boss rounds??
-
-easyier and harder levels
-
-edit level 2 as its still not changed since build
-
-multiplayer??
+Shield.
+Boss
+New powerful weapons and grenades
+key door system to protect a specific reachpoint
