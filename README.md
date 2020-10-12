@@ -13,6 +13,12 @@ fixed mesh issues and wall crossing issues. Lv3 already exists and still buildin
 upcoming:
 
 Shield.
+
+
 Boss
+
+
 New powerful weapons and grenades
+
+
 key door system to protect a specific reachpoint
