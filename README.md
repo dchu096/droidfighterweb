@@ -1,4 +1,4 @@
-# fpv-v2.1
+# fpv-v2.2
 version 2.1 for droid fighter (fpv-2)
 
 
