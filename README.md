@@ -6,7 +6,7 @@ welcome back to user096's github!
 
 changelog for fpv2:
 
-v 2.2.2
+v 2.1.2
 fixed mesh issues and wall crossing issues. Lv3 already exists and still building on it.
 
 
